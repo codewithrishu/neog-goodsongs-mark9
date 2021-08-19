@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+h1 {
+  color: #374151;
+}
+h3 {
+  color: #9ca3af;
+}
+hr {
+  margin: auto;
+  width: 40%;
+}
+button {
+  padding: 1rem 1rem;
+  margin: 0.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 1rem;
+  border: none;
+  background-color: #8b5cf6;
+  color: #f5f3ff;
+}
+button:hover {
+  background-color: #5b21b6;
+  cursor: pointer;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+.details {
+  width: 20rem;
+  text-align: left;
+  padding: 0.5rem;
+  margin: auto;
+}
+li {
+  padding: 1rem;
+  border: 1px solid #9ca3af;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
